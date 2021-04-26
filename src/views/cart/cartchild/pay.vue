@@ -3,7 +3,7 @@
     <div class="box-flex">
       <check-button :is-checked='isselectall' class="checkbtn" @click.native="checkclick"></check-button>
       <div class="price-box flex">
-        <span>合计：</span>
+        <span>总计：</span>
         <strong>{{totalprice}}</strong>
         <span>元</span>
       </div>
