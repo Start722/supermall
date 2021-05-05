@@ -14,9 +14,7 @@
 </template>
 
 <script>
-
 import navbar from 'components/common/navbar/navbar'
-
 export default{
   name:'sort',
   components:{
